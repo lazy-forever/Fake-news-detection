@@ -14,6 +14,7 @@
 
 ```shell
 pip install -r requirements.txt
+mkdir model
 ```
 
 下载[ymcui/Chinese-BERT-wwm: Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）](https://github.com/ymcui/Chinese-BERT-wwm)中的`RoBERTa-wwm-ext-large`PyTorch版本，[SeanLee97/xmnlp: xmnlp](https://github.com/SeanLee97/xmnlp)中的`xmnlp-onnx-models-v5.zip`存入model文件夹中。
