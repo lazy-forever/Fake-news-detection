@@ -1,6 +1,6 @@
 # Fake-news-detection
 
-虚假新闻检测-南开大学《python语言程序设计》大作业
+虚假新闻检测-南开大学《python语言程序设计》大作业，数据集来源[yaqingwang/WeFEND-AAAI20: Dataset for paper "Weak Supervision for Fake News Detection via Reinforcement Learning" published in AAAI'2020. (github.com)](https://github.com/yaqingwang/WeFEND-AAAI20)
 
 本项目遵守[AGPL-3.0开源协议](LICENSE)，你可以自由地使用、修改、传播源代码，但是你必须遵守[AGPL-3.0许可证](LICENSE)的规定，即如果使用或修改我的源代码，需要注明作者并给出项目链接，并且在公共平台开源（例如在GitHub或GitLab等），否则我有权力进行追责。
 
