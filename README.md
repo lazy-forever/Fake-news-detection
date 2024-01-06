@@ -6,7 +6,7 @@
 
 ***如果您觉得本项目还不错，请给出您的 star，球球了。另外，我以后可能还会将其他课程或项目的相关代码开源在 Github，欢迎 follow me。***
 
-如果对此项目或其他学习有疑问也可以根据我主页或博客上面的联系方式联系我，我会尽可能帮助你。
+如果对此项目或其他学习有疑问可以提 issue 或根据我主页或博客上面的联系方式联系我，我会尽可能帮助你。
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lazy-forever/Fake-news-detection&type=Timeline)](https://star-history.com/#lazy-forever/Fake-news-detection&Timeline)
 
