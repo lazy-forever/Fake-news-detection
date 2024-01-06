@@ -4,7 +4,9 @@
 
 本项目遵守[AGPL-3.0开源协议](LICENSE)，你可以自由地使用、修改、传播源代码，但是你必须遵守[AGPL-3.0许可证](LICENSE)的规定，即如果使用或修改我的源代码，需要注明作者并给出项目链接，并且在公共平台开源（例如在GitHub或GitLab等），否则我有权力进行追责。
 
-***另外，如果您觉得本项目还不错，请给出您的star，球球了。***
+***如果您觉得本项目还不错，请给出您的 star，球球了。另外，我以后可能还会将其他课程或项目的相关代码开源在 Github，欢迎 follow me。***
+
+如果对此项目或其他学习有疑问也可以根据我主页或博客上面的联系方式联系我，我会尽可能帮助你。
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lazy-forever/Fake-news-detection&type=Timeline)](https://star-history.com/#lazy-forever/Fake-news-detection&Timeline)
 
